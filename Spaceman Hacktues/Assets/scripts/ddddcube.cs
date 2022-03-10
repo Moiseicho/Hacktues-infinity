@@ -12,7 +12,7 @@ public class ddddcube : collectable
         if(!collected){
             linkedbutton.SetActive(true);
             collected = true;
-            gamemanager.instance.cube++;
+            gamemanager.instance.CubeCount++;
             GetComponent<SpriteRenderer>().sprite = emptychest;
             gamemanager.instance.showtext("The penis has been granted 2", 25, Color.yellow, transform.position, Vector3.up * 30, 2.5f);
         }

@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class player : AImovement
 {   
+    public SpriteRenderer sprite;
+    public int PlayerLevel;
+
+    protected override void Start()
+    {
+        base.Start();
+        sprite = GetComponent<SpriteRenderer>();
+    }
     private void FixedUpdate()
     {
         float x = Input.GetAxisRaw("Horizontal");
@@ -11,5 +19,9 @@ public class player : AImovement
         // x and y are -1/0/1 depending on which direction button you are pressing
 
         UpdateMotor(new Vector3(x, y, 0));
+    }
+    public void swapsprite(int spriteNum)
+    {
+        this.sprite.sprite = gamemanager.instance.playersprites[spriteNum];
     }
 }
