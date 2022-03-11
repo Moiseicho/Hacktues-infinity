@@ -71,6 +71,7 @@
     <Compile Include="Assets\scripts\ddddcube.cs" />
     <Compile Include="Assets\scripts\ddol.cs" />
     <Compile Include="Assets\scripts\gamemanager.cs" />
+    <Compile Include="Assets\scripts\giveSubPButton.cs" />
     <Compile Include="Assets\scripts\planet.cs" />
     <Compile Include="Assets\scripts\player.cs" />
     <Compile Include="Assets\scripts\push.cs" />

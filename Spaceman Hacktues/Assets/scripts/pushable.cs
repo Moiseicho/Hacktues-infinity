@@ -17,7 +17,6 @@ public class pushable : cancolide
     {
         if(coll.name == "player")
         {
-            Debug.Log(2*gameObject.transform.position.y - coll.transform.position.y - startposy);
             float pushforse = 0.05f;
             if(2*gameObject.transform.position.x - coll.transform.position.x - startposx <= boundxp && 2*gameObject.transform.position.x - coll.transform.position.x - startposx >= boundxm)
                 gameObject.transform.Translate(pushforse*( gameObject.transform.position.x - coll.transform.position.x), 0, 0); 
