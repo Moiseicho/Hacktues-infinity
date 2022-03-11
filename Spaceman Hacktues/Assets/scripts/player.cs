@@ -12,6 +12,8 @@ public class player : AImovement
         base.Start();
         sprite = GetComponent<SpriteRenderer>();
 
+        swapsprite();
+
         DontDestroyOnLoad(gameObject);
     }
     private void FixedUpdate()

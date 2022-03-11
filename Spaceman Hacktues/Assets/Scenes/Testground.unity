@@ -1440,7 +1440,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a580ad6e91b1447449f17bbb7412ba3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lockobj: {fileID: 0}
   boundx: 0.25
   boundy: 0.1
 --- !u!81 &572364455
@@ -7863,6 +7862,7 @@ MonoBehaviour:
   LengthOfDayTxt: {fileID: 325188535}
   SurfacePressureTxt: {fileID: 514200}
   NameTxt: {fileID: 469322913}
+  planets: {fileID: 1610349324}
   characterSprite: {fileID: 575153755}
 --- !u!1 &1506130726
 GameObject:
@@ -17121,10 +17121,8 @@ MonoBehaviour:
   - {fileID: 21300546, guid: 82b3b44484ece764eafd94a6ba4deb20, type: 3}
   - {fileID: 21300520, guid: 82b3b44484ece764eafd94a6ba4deb20, type: 3}
   - {fileID: 21300522, guid: 82b3b44484ece764eafd94a6ba4deb20, type: 3}
-  planets:
-  - {fileID: 1610349324}
-  planetnum: 0
   CubeCount: 0
+  characterNum: 0
   player: {fileID: 1220315048}
   Ftm: {fileID: 267733482}
   Boxcount: 0

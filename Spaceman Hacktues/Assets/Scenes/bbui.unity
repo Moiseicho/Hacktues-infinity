@@ -4970,6 +4970,7 @@ MonoBehaviour:
   LengthOfDayTxt: {fileID: 1464482812}
   SurfacePressureTxt: {fileID: 1913731506}
   NameTxt: {fileID: 184788902}
+  planets: {fileID: 295739174}
   characterSprite: {fileID: 1226107159}
 --- !u!225 &135954611
 CanvasGroup:
@@ -5403,7 +5404,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &301090956
 RectTransform:
   m_ObjectHideFlags: 0

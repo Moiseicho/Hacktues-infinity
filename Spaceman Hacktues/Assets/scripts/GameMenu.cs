@@ -7,6 +7,7 @@ public class GameMenu : MonoBehaviour
     //Text
     public Text massTxt, diameterTxt, densetyTxt, DistanceFromSunTxt, NumberOfMoonsTxt, gravityTxt, LengthOfDayTxt, SurfacePressureTxt, NameTxt;
 
+    public planet planets;
     //Logic
     public Image characterSprite;
     public void OnArrowClick(bool right)
@@ -37,16 +38,16 @@ public class GameMenu : MonoBehaviour
     }
     public void updateMenu()
     {
+        changeCharacter();
         Debug.Log("Its stupid");
-        int planetnum = gamemanager.instance.planetnum;
-        massTxt.text ="Mass: " + gamemanager.instance.planets[planetnum].mass.ToString() + " TeraTons.";
-        diameterTxt.text ="Diameter: " + gamemanager.instance.planets[planetnum].diameter.ToString() + " km.";
-        densetyTxt.text ="Densety: " + gamemanager.instance.planets[planetnum].densety.ToString() + " kg/m^3.";
-        DistanceFromSunTxt.text ="Distance to sun: " + gamemanager.instance.planets[planetnum].DistanceFromSun.ToString() + " km.";
-        NumberOfMoonsTxt.text ="Number of moons: " + gamemanager.instance.planets[planetnum].NumberOfMoons.ToString() + ".";
-        gravityTxt.text ="Gravitational pull: " + gamemanager.instance.planets[planetnum].gravity.ToString() + " g.";
-        LengthOfDayTxt.text ="Length of day: " + gamemanager.instance.planets[planetnum].LengthOfDay.ToString() + " h.";
-        SurfacePressureTxt.text ="Surface pressure: " + gamemanager.instance.planets[planetnum].SurfacePressure.ToString() + " bar.";
-        NameTxt.text = "Name:" + gamemanager.instance.planets[planetnum].Name + ".";
+        massTxt.text ="Mass: " + planets.mass.ToString() + " TeraTons.";
+        diameterTxt.text ="Diameter: " + planets.diameter.ToString() + " km.";
+        densetyTxt.text ="Densety: " + planets.densety.ToString() + " kg/m^3.";
+        DistanceFromSunTxt.text ="Distance to sun: " + planets.DistanceFromSun.ToString() + " km.";
+        NumberOfMoonsTxt.text ="Number of moons: " + planets.NumberOfMoons.ToString() + ".";
+        gravityTxt.text ="Gravitational pull: " + planets.gravity.ToString() + " g.";
+        LengthOfDayTxt.text ="Length of day: " + planets.LengthOfDay.ToString() + " h.";
+        SurfacePressureTxt.text ="Surface pressure: " + planets.SurfacePressure.ToString() + " bar.";
+        NameTxt.text = "Name:" + planets.Name + ".";
     }
 }

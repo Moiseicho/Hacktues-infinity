@@ -27,8 +27,6 @@ public class gamemanager : MonoBehaviour
 
     //Ressources    
     public List<Sprite> playersprites;
-
-    public planet [] planets;
     public int CubeCount;
     public int characterNum;
     //Refrences
@@ -45,7 +43,7 @@ public class gamemanager : MonoBehaviour
     {
         string s = "";
         s += Boxcount.ToString() + "|";
-        s += planetnum.ToString(); //0|75|10|0
+        s += characterNum.ToString(); //0|75|10|0
 
         PlayerPrefs.SetString("Save", s);
         Debug.Log("Saved");
@@ -62,7 +60,7 @@ public class gamemanager : MonoBehaviour
         
         string[] data = PlayerPrefs.GetString("Save").Split('|');
         Boxcount = int.Parse(data[0]);
-        planetnum = int.Parse(data[1]);
+        characterNum = int.Parse(data[1]);
         Debug.Log("Loaded");
         player.transform.position = GameObject.Find("spawnpoint").transform.position;
     }
