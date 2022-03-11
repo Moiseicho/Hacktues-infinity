@@ -8086,8 +8086,8 @@ RectTransform:
   - {fileID: 325188534}
   - {fileID: 514199}
   - {fileID: 2044554742}
-  - {fileID: 1610349323}
   - {fileID: 1506130727}
+  - {fileID: 1610349323}
   m_Father: {fileID: 1757682169}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8727,7 +8727,7 @@ RectTransform:
   m_Children:
   - {fileID: 992147074}
   m_Father: {fileID: 1060845761}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -18220,7 +18220,7 @@ GameObject:
   - component: {fileID: 1610349324}
   - component: {fileID: 1610349327}
   m_Layer: 5
-  m_Name: planet
+  m_Name: mercury
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18238,7 +18238,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1060845761}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
