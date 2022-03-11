@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class AImovement : HP
+public abstract class AImovement : MonoBehaviour
 {
     protected BoxCollider2D boxcollider;
     protected Vector3 movedelta;

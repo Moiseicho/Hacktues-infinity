@@ -65,7 +65,6 @@
     <Compile Include="Assets\scripts\FTManager.cs" />
     <Compile Include="Assets\scripts\Floatingtext.cs" />
     <Compile Include="Assets\scripts\GameMenu.cs" />
-    <Compile Include="Assets\scripts\HP.cs" />
     <Compile Include="Assets\scripts\cameramoove.cs" />
     <Compile Include="Assets\scripts\cancolide.cs" />
     <Compile Include="Assets\scripts\collectable.cs" />
@@ -74,6 +73,8 @@
     <Compile Include="Assets\scripts\gamemanager.cs" />
     <Compile Include="Assets\scripts\planet.cs" />
     <Compile Include="Assets\scripts\player.cs" />
+    <Compile Include="Assets\scripts\push.cs" />
+    <Compile Include="Assets\scripts\pushable.cs" />
     <Compile Include="Assets\scripts\teleport.cs" />
     <Compile Include="Assets\scripts\weapons.cs" />
   </ItemGroup>
