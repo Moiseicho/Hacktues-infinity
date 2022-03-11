@@ -1,0 +1,76 @@
+Template:
+
+Name: Lorem
+Mass: SAsas
+Diameter: 1-as
+Density: asas
+Gravity: asasas
+Length of day: 10
+Distance from Sun: 
+Surface Pressure: 
+Number of Moons
+Ring System?: Yes/No
+Global Magnetic Field?: yes/no
+
+Name: Mercury
+Mass: 3,285E23 kg
+Diameter: 4879 km
+Density: 5429 kg/m3
+Gravity: 3.7 m/s2
+Length of day: 4222.6 hours
+Distance from Sun: 57 910 000 km
+Surface Pressure: 0 bars
+Number of Moons: 0
+Ring System?: No
+Global Magnetic Field?:Yes
+Time to travel to Earth: min. 40 days
+Max Temperature: 450C
+Min Temperature: -170C
+
+Name: Venus
+Mass: 4,867E24 kg
+Diameter: 12 104 km
+Density: 5243 kg/m3
+Gravity: 8.9 m/s2
+Length of day: 2802 hours
+Distance from Sun: 108 200 000 km
+Surface Pressure: 92 bars
+Number of Moons: 0
+Ring System?: No
+Global Magnetic Field?: No
+
+Name: Moon
+Mass: 7.34767309 × 1022  kg
+Diameter: 3475 km
+Density: 3340 kg/m3
+Gravity: 1.6 m/s2
+Length of day: 708.7 hours
+Distance from Sun: 146 692 378 km
+Surface Pressure: 0 bars
+Number of Moons: 0
+Ring System?: No
+Global Magnetic Field?: No
+
+Name: Mars
+Mass: 6,39E23 kg
+Diameter: 6792 km
+Density: 3934 kg/m3
+Gravity: 3.7 m/s2
+Length of day: 24.7 hours
+Distance from Sun: 227 900 000 km
+Surface Pressure: 0.01 bars
+Number of Moons: 2
+Ring System?: No
+Global Magnetic Field?: No
+
+Name: Earth
+Mass: 5,972E24 kg
+Diameter: 12 756 km
+Density: 5514 kg/m3
+Gravity: 9.8 m/s2
+Length of day: 24 hours
+Distance from Sun: 149 600 000 km
+Surface Pressure: 1 bars
+Number of Moons: 1
+Ring System?: No
+Global Magnetic Field?: Yes
