@@ -24,8 +24,8 @@ Number of Moons: 0
 Ring System?: No
 Global Magnetic Field?:Yes
 Time to travel to Earth: min. 40 days
-Max Temperature: 450C
-Min Temperature: -170C
+Maximum Surface Temperature: 450C
+Minimum Surface Temperature: -170C
 
 Name: Venus
 Mass: 4,867E24 kg
@@ -38,6 +38,9 @@ Surface Pressure: 92 bars
 Number of Moons: 0
 Ring System?: No
 Global Magnetic Field?: No
+Time to travel to Earth: 120 days
+Maximum Surface Temperature: 465C
+Minimum Surface Temperature: 465C
 
 Name: Moon
 Mass: 7.34767309 × 1022  kg
@@ -50,6 +53,9 @@ Surface Pressure: 0 bars
 Number of Moons: 0
 Ring System?: No
 Global Magnetic Field?: No
+Time to travel to Earth: 3 days
+Maximum Surface Temperature: 127C
+Minimum Surface Temperature: -173C
 
 Name: Mars
 Mass: 6,39E23 kg
@@ -60,8 +66,12 @@ Length of day: 24.7 hours
 Distance from Sun: 227 900 000 km
 Surface Pressure: 0.01 bars
 Number of Moons: 2
+Name of Moons: Phobos and Deimos
 Ring System?: No
 Global Magnetic Field?: No
+Time to Earth: 273 days
+Maximum Surface Temperature: 20C
+Minimum Surface Temperature: -125C
 
 Name: Earth
 Mass: 5,972E24 kg
@@ -72,5 +82,8 @@ Length of day: 24 hours
 Distance from Sun: 149 600 000 km
 Surface Pressure: 1 bars
 Number of Moons: 1
+Name of Moons: Moon
 Ring System?: No
 Global Magnetic Field?: Yes
+Maximum Surface Temperature: 56.7C
+Minimum Surface Temperature: −89.2 C
