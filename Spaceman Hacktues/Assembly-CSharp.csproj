@@ -75,6 +75,7 @@
     <Compile Include="Assets\scripts\player.cs" />
     <Compile Include="Assets\scripts\push.cs" />
     <Compile Include="Assets\scripts\pushable.cs" />
+    <Compile Include="Assets\scripts\pushbutton.cs" />
     <Compile Include="Assets\scripts\teleport.cs" />
     <Compile Include="Assets\scripts\weapons.cs" />
   </ItemGroup>

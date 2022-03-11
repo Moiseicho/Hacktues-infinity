@@ -8469,6 +8469,12 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
+  startposx: 0
+  startposy: 0
+  boundxp: 0.64
+  boundyp: 0.16
+  boundxm: -0.16
+  boundym: -1.28
 --- !u!212 &1492144533
 SpriteRenderer:
   m_ObjectHideFlags: 0
