@@ -22,8 +22,8 @@ public class player : AImovement
 
         UpdateMotor(new Vector3(x, y, 0));
     }
-    public void swapsprite(int spriteNum)
+    public void swapsprite()
     {
-        this.sprite.sprite = gamemanager.instance.playersprites[spriteNum];
+        this.sprite.sprite = gamemanager.instance.playersprites[gamemanager.instance.characterNum];
     }
 }

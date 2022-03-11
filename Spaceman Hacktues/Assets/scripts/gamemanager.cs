@@ -29,8 +29,8 @@ public class gamemanager : MonoBehaviour
     public List<Sprite> playersprites;
 
     public planet [] planets;
-    public int planetnum;
     public int CubeCount;
+    public int characterNum;
     //Refrences
     public player player;
     public FTManager Ftm;

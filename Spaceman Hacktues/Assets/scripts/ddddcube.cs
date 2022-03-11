@@ -14,7 +14,7 @@ public class ddddcube : collectable
             collected = true;
             gamemanager.instance.CubeCount++;
             GetComponent<SpriteRenderer>().sprite = emptychest;
-            gamemanager.instance.showtext("The penis has been granted 2", 25, Color.yellow, transform.position, Vector3.up * 30, 2.5f);
+            gamemanager.instance.showtext("The cube has been granted the past.", 25, Color.yellow, transform.position, Vector3.up * 30, 2.5f);
         }
     }
 }

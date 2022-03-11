@@ -8,33 +8,32 @@ public class GameMenu : MonoBehaviour
     public Text massTxt, diameterTxt, densetyTxt, DistanceFromSunTxt, NumberOfMoonsTxt, gravityTxt, LengthOfDayTxt, SurfacePressureTxt, NameTxt;
 
     //Logic
-    private int characterNum;
     public Image characterSprite;
     public void OnArrowClick(bool right)
     {
         if(right)
         {
-            characterNum++;
-            if(characterNum == gamemanager.instance.playersprites.Count)
+            gamemanager.instance.characterNum++;
+            if(gamemanager.instance.characterNum == gamemanager.instance.playersprites.Count)
             {
-                characterNum = 0;
+                gamemanager.instance.characterNum = 0;
             }
             changeCharacter();
         }
         else
         {
-            characterNum--;
-            if(characterNum<0)
+            gamemanager.instance.characterNum--;
+            if(gamemanager.instance.characterNum<0)
             {
-                characterNum = gamemanager.instance.playersprites.Count-1;
+                gamemanager.instance.characterNum = gamemanager.instance.playersprites.Count-1;
             }
             changeCharacter();
         }
     } 
     private void changeCharacter()
     {
-        characterSprite.sprite = gamemanager.instance.playersprites[characterNum];
-        gamemanager.instance.player.swapsprite(characterNum);
+        characterSprite.sprite = gamemanager.instance.playersprites[gamemanager.instance.characterNum];
+        gamemanager.instance.player.swapsprite();
     }
     public void updateMenu()
     {
