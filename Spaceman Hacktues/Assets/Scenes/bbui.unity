@@ -5802,8 +5802,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Lorem ipsum penis having pease of shit etas my buggers oh yea auto compile
-    help.
+  m_Text: lorem ipsum
 --- !u!222 &664201676
 CanvasRenderer:
   m_ObjectHideFlags: 0
