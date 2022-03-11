@@ -28,12 +28,13 @@ public class gamemanager : MonoBehaviour
     //Ressources    
     public List<Sprite> playersprites;
 
+    public planet [] planets;
+    public int planetnum;
     public int CubeCount;
     //Refrences
     public player player;
     public FTManager Ftm;
     //Logic
-
     public int Boxcount;
 
     public void showtext(string stext, int fonts, Color fontc, Vector3 Pos, Vector3 motion, float duration)
@@ -44,7 +45,7 @@ public class gamemanager : MonoBehaviour
     {
         string s = "";
         s += Boxcount.ToString() + "|";
-        s += "weapon.lvl.ToString()"; //0|75|10|0
+        s += planetnum.ToString(); //0|75|10|0
 
         PlayerPrefs.SetString("Save", s);
         Debug.Log("Saved");
@@ -62,6 +63,7 @@ public class gamemanager : MonoBehaviour
         
         string[] data = PlayerPrefs.GetString("Save").Split('|');
         Boxcount = int.Parse(data[0]);
+        planetnum = int.Parse(data[1]);
         Debug.Log("Loaded");
     }
 }
