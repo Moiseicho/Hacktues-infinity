@@ -54,7 +54,6 @@ public class gamemanager : MonoBehaviour
     public void LoadState(Scene scene, LoadSceneMode mode)
     {
         
-        SceneManager.sceneLoaded -= LoadState;
         if(!PlayerPrefs.HasKey("Save"))
         {
             Debug.Log("The fuck");
@@ -65,5 +64,6 @@ public class gamemanager : MonoBehaviour
         Boxcount = int.Parse(data[0]);
         planetnum = int.Parse(data[1]);
         Debug.Log("Loaded");
+        player.transform.position = GameObject.Find("spawnpoint").transform.position;
     }
 }

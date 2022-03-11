@@ -7,7 +7,7 @@ public class cameramoove : MonoBehaviour
     public Transform lockobj;
     public float boundx=0.25f;
     public float boundy=0.1f;
-    private void Awake()
+    private void Start()
     {
         lockobj = GameObject.Find("player").transform;
     }
