@@ -54,6 +54,7 @@ public class gamemanager : MonoBehaviour
         
         if(!PlayerPrefs.HasKey("Save"))
         {
+            Debug.Log("The fuck");
             return;
         }
         

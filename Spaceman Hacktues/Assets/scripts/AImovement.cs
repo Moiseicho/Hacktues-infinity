@@ -9,6 +9,8 @@ public abstract class AImovement : HP
     protected Vector3 sizebox;
     public float speed = 1.0f;
     private RaycastHit2D hit;
+    //public Animator animator;
+
     protected virtual void Start()
     {
         //Make the boxcollider = to the box colider of the object
@@ -24,13 +26,6 @@ public abstract class AImovement : HP
         movedelta = input;
 
         // Swap sprite direction, going right or left
-        if(movedelta.x > 0)
-        {
-            transform.localScale = new Vector3(1, 1, 1);
-        }else if(movedelta.x < 0)
-        {
-            transform.localScale = new Vector3(-1, 1, 1);
-        }
 
         hit = Physics2D.BoxCast(transform.position, sizebox, 0, new Vector2(0, movedelta.y), Mathf.Abs(movedelta.y * Time.deltaTime * speed), LayerMask.GetMask("PC", "Blocking"));
         if(hit.collider == null)
@@ -44,5 +39,6 @@ public abstract class AImovement : HP
             //make player move x
             transform.Translate(movedelta.x * Time.deltaTime * speed, 0, 0);
         }
+        
     }
 }
