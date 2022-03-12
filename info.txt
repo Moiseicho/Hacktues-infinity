@@ -14,6 +14,8 @@ Global Magnetic Field?:Yes
 Time to travel to Earth: min. 40 days
 Maximum Surface Temperature: 450C
 Minimum Surface Temperature: -170C
+Interesting facts:
+
 
 Name: Venus
 Mass: 4,867E24 kg
@@ -107,21 +109,8 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 2 921 days
 Mean Temperature: -140C
+Smells like preparati zaradi amonqka
 
-Name: Saturn
-Mass: 5,683E26 kg
-Diameter: 120 536 km
-Density: 687 kg/m3
-Gravity: 9.0 m/s2
-Length of day: 9.9 hours
-Distance from Sun: 1 479 400 000 km
-Surface Pressure: unknown
-Number of Moons: 82
-Name of Main Moons:  Mimas, Enceladus, Tethys, and Dione
-Ring System?: Yes
-Global Magnetic Field?: Yes
-Time to Earth: 2 921 days
-Mean Temperature: -140C
 
 Name: Uranus
 Mass: 8,681E25 kg
@@ -137,3 +126,18 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 3 104 days
 Mean Temperature: -195C
+
+Name: Neptune
+Mass: 1,024E26
+Diameter: 49 528 km
+Density: 1638 kg/m3
+Gravity: 8.7 m/s2
+Length of day: 16.1 hours
+Distance from Sun: 4 474 500 000 km
+Surface Pressure: unknown
+Number of Moons: 14
+Name of Main Moons:  Ariel, Miranda, Titania, Oberon, and Umbriel
+Ring System?: Yes
+Global Magnetic Field?: Yes
+Time to Earth: 4 382 days
+Mean Temperature: -200C
