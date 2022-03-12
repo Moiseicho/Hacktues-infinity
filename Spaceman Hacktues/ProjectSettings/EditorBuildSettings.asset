@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Testground.unity
+    path: Assets/Scenes/Testground_V.unity
     guid: c984d4cd5c3033a48af3a8bd4da6a394
   - enabled: 1
-    path: Assets/Scenes/bbui.unity
+    path: Assets/Scenes/bbui_V.unity
     guid: f57a76e9988eec747a0030e15ee5ee44
   - enabled: 1
     path: Assets/Scenes/mazeNormal.unity
