@@ -284,13 +284,13 @@
  <HintPath>D:/Vanko/Unity/Unity_Editor/2019.4.36f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Vanko/Unity/Unity_Editor/2019.4.36f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -638,97 +638,97 @@
  <HintPath>D:/Vanko/Unity/Unity_Editor/2019.4.36f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Monetization">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing.Stores">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing.Codeless">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing.SecurityCore">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Analytics">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Analytics.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing.SecurityStub">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>D:/Vanko/Unity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>D:/Vanko/Github/GitHub/Hacktues-infinity/Spaceman Hacktues/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
