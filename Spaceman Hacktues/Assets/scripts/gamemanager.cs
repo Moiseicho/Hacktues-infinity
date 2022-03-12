@@ -13,7 +13,7 @@ public class gamemanager : MonoBehaviour
             return;
         }
 
-        //PlayerPrefs.DeleteAll();
+        PlayerPrefs.DeleteAll();
         Debug.Log("Working?");
         instance = this;
         SceneManager.sceneLoaded += LoadState;

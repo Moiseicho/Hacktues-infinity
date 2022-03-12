@@ -23,15 +23,6 @@ public abstract class AImovement : MonoBehaviour
         // Reset the movedelta
         movedelta = input;
 
-        // Swap sprite direction, going right or left
-        if(movedelta.x > 0)
-        {
-            transform.localScale = new Vector3(1, 1, 1);
-        }else if(movedelta.x < 0)
-        {
-            transform.localScale = new Vector3(-1, 1, 1);
-        }
-
         hit = Physics2D.BoxCast(transform.position, sizebox, 0, new Vector2(0, movedelta.y), Mathf.Abs(movedelta.y * Time.deltaTime * speed), LayerMask.GetMask("PC", "Blocking"));
         if(hit.collider == null)
         {
