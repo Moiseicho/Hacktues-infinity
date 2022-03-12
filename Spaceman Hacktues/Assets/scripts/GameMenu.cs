@@ -40,7 +40,7 @@ public class GameMenu : MonoBehaviour
     {
         changeCharacter();
         Debug.Log("Its stupid");
-        massTxt.text ="Mass: " + planets.mass.ToString() + " TeraTons.";
+        massTxt.text ="Mass: " + planets.mass + " TeraTons.";
         diameterTxt.text ="Diameter: " + planets.diameter.ToString() + " km.";
         densetyTxt.text ="Densety: " + planets.densety.ToString() + " kg/m^3.";
         DistanceFromSunTxt.text ="Distance to sun: " + planets.DistanceFromSun.ToString() + " km.";

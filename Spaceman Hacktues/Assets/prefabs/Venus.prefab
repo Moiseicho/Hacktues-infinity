@@ -88,7 +88,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb84b71dc566e84cb37e2bba69ed121, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mass: 2147483647
+  mass: 4867000000
   diameter: 12104
   densety: 5243
   DistanceFromSun: 108200000
