@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class planet : MonoBehaviour
 {
-    public string mass;
-    public int diameter, densety, DistanceFromSun, NumberOfMoons;
+    public string mass, DistanceFromSun;
+    public int diameter, densety, NumberOfMoons;
     
     public float gravity, LengthOfDay, SurfacePressure;
     public bool RingSystem, GMF;
