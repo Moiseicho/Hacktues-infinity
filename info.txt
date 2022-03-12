@@ -15,6 +15,7 @@ Time to travel to Earth: min. 40 days
 Maximum Surface Temperature: 450C
 Minimum Surface Temperature: -170C
 Interesting facts:
+Mercury is the closest planet to the Sun; Mercury is also the smallest planet in the Solar System; Not only is Mercury the smallest planet, it is also shrinking; Mercury has the most craters in the Solar System; The biggest crater in Mercury could fit Western Europe; Mercury orbits the Sun faster than any other planet; Mercury was named after the Roman god of commerce; Mercury has some extreme temperature changes(from 427C to -173C);The days are very long in Mercury; There is a piece of Mercury here on Earth; Mercury goes through phases just like the Moon; Mercury doesn’t have any moons;  Only two spacecraft have been sent to study Mercury. 
 
 
 Name: Venus
@@ -31,6 +32,7 @@ Global Magnetic Field?: No
 Time to travel to Earth: 120 days
 Maximum Surface Temperature: 465C
 Minimum Surface Temperature: 465C
+Interesting facts:A day on Venus is longer than a year; Venus is hotter than Mercury despite being further away from the Sun; Unlike the other planets in our solar system, Venus spins clockwise on its axis; Venus is the second brightest natural object in the night sky after the Moon; Venus has 90 times the atmospheric pressure of Earth; Venus is named after the Roman goddess of love and beauty; Venus was the first planet to have its motions plotted across the sky, as early as the second millennium BC;
 
 Name: Moon
 Mass: 7.34767309 × 1022  kg
@@ -79,6 +81,8 @@ Global Magnetic Field?: No
 Time to Earth: 273 days
 Maximum Surface Temperature: 20C
 Minimum Surface Temperature: -125C
+Interesting facts:
+Mars Had Water In The Ancient Past; Mars Has Frozen Water Today; Mars Used To Have A Thicker Atmosphere;  Mars Has Some Extreme Highs And Lows In Terrain; We Have Pieces Of Mars On Earth; Mars Would Kill An Unprotected Astronaut Quickly; In The Early Space Age, We Thought Mars Was Like The Moon; Mars Has Methane In Its Atmosphere; Mars Is A Popular Spacecraft Destination.
 
 Name: Jupiter
 Mass: 1,898E27 kg
@@ -94,6 +98,8 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 550-650 days
 Mean Temperature: -110C
+Interesting facts:
+Jupiter is the king of planets by mass; Its Great Red Spot is actually a planetary-sized storm that has been raging on for centuries; The first astronomers to track Jupiter were Babylonians; Jupiter has the shortest day of all planets, despite its hefty size; Jupiter has the strongest magnetic field of any planet in the solar system; Jupiter has a thin ring system; Some of Jupiter's moons may actually be capable of harboring life;  Jupiter has the brightest auroras in the solar system;  Jupiter is the solar system’s asteroid vacuum cleaner;
 
 Name: Saturn
 Mass: 5,683E26 kg
@@ -109,7 +115,7 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 2 921 days
 Mean Temperature: -140C
-Smells like preparati zaradi amonqka
+Interesting facts: Saturn is the most distant planet that can be seen with the naked eye; Saturn was known to the ancients, including the Babylonians and Far Eastern observers; Saturn is the flattest planet; Saturn orbits the Sun once every 29.4 Earth years; Saturn’s upper atmosphere is divided into bands of clouds; Saturn has oval-shaped storms similar to Jupiter’s; Saturn is made mostly of hydrogen; Saturn has the most extensive rings in the solar system; Saturn has 150 moons and smaller moonlets; Titan is a moon with complex and dense nitrogen-rich atmosphere; Four spacecraft have visited Saturn; Saturn has more moons than any other planet.
 
 
 Name: Uranus
@@ -126,6 +132,7 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 3 104 days
 Mean Temperature: -195C
+Interesting facts: Uranus is the coldest planet in the Solar System; Uranus orbits the Sun on its side;  A Season on Uranus lasts one long day – 42 years; Uranus is the second-least dense planet; Uranus has rings; Uranus was the first planet discovered in the modern age; You can see Uranus with the unaided eye; Uranus has only been visited once;
 
 Name: Neptune
 Mass: 1,024E26
@@ -141,3 +148,4 @@ Ring System?: Yes
 Global Magnetic Field?: Yes
 Time to Earth: 4 382 days
 Mean Temperature: -200C
+Interesting facts: Neptune is the most distant planet from the Sun; Neptune is the smallest gas giant; A year on Neptune lasts 165 Earth years; Neptune is named after the Roman god of the sea; Neptune has 6 faint rings; Neptune was not known to the ancients; Neptune spins on its axis very rapidly; Neptune is the smallest of the ice giants; The atmosphere of Neptune is made of hydrogen and helium, with some methane; Neptune has a very active climate; Neptune has a very thin collection of rings; Only one spacecraft has flown by Neptune;
