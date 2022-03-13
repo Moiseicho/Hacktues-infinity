@@ -140,18 +140,6 @@ TextureImporter:
   - first:
       213: 8504131991544706585
     second: Venus_45
-  - first:
-      213: -1311459995185624568
-    second: Venus_46
-  - first:
-      213: 2532639270604610161
-    second: Venus_47
-  - first:
-      213: -2292537738420153464
-    second: Venus_48
-  - first:
-      213: -5517968077399231458
-    second: Venus_49
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -242,10 +230,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -261,12 +249,12 @@ TextureImporter:
       name: Venus_1
       rect:
         serializedVersion: 2
-        x: 100
+        x: 350
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -282,12 +270,12 @@ TextureImporter:
       name: Venus_2
       rect:
         serializedVersion: 2
-        x: 200
+        x: 700
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -303,12 +291,12 @@ TextureImporter:
       name: Venus_3
       rect:
         serializedVersion: 2
-        x: 300
+        x: 1050
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -324,12 +312,12 @@ TextureImporter:
       name: Venus_4
       rect:
         serializedVersion: 2
-        x: 400
+        x: 1400
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -345,12 +333,12 @@ TextureImporter:
       name: Venus_5
       rect:
         serializedVersion: 2
-        x: 500
+        x: 1750
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -366,12 +354,12 @@ TextureImporter:
       name: Venus_6
       rect:
         serializedVersion: 2
-        x: 600
+        x: 2100
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -387,12 +375,12 @@ TextureImporter:
       name: Venus_7
       rect:
         serializedVersion: 2
-        x: 700
+        x: 2450
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -408,12 +396,12 @@ TextureImporter:
       name: Venus_8
       rect:
         serializedVersion: 2
-        x: 800
+        x: 2800
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -429,12 +417,12 @@ TextureImporter:
       name: Venus_9
       rect:
         serializedVersion: 2
-        x: 900
+        x: 3150
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -450,12 +438,12 @@ TextureImporter:
       name: Venus_10
       rect:
         serializedVersion: 2
-        x: 1000
+        x: 3500
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -471,12 +459,12 @@ TextureImporter:
       name: Venus_11
       rect:
         serializedVersion: 2
-        x: 1100
+        x: 3850
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -492,12 +480,12 @@ TextureImporter:
       name: Venus_12
       rect:
         serializedVersion: 2
-        x: 1200
+        x: 4200
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -513,12 +501,12 @@ TextureImporter:
       name: Venus_13
       rect:
         serializedVersion: 2
-        x: 1300
+        x: 4550
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -534,12 +522,12 @@ TextureImporter:
       name: Venus_14
       rect:
         serializedVersion: 2
-        x: 1400
+        x: 4900
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -555,12 +543,12 @@ TextureImporter:
       name: Venus_15
       rect:
         serializedVersion: 2
-        x: 1500
+        x: 5250
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -576,12 +564,12 @@ TextureImporter:
       name: Venus_16
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 5600
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -597,12 +585,12 @@ TextureImporter:
       name: Venus_17
       rect:
         serializedVersion: 2
-        x: 1700
+        x: 5950
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -618,12 +606,12 @@ TextureImporter:
       name: Venus_18
       rect:
         serializedVersion: 2
-        x: 1800
+        x: 6300
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -639,12 +627,12 @@ TextureImporter:
       name: Venus_19
       rect:
         serializedVersion: 2
-        x: 1900
+        x: 6650
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -660,12 +648,12 @@ TextureImporter:
       name: Venus_20
       rect:
         serializedVersion: 2
-        x: 2000
+        x: 7000
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -681,12 +669,12 @@ TextureImporter:
       name: Venus_21
       rect:
         serializedVersion: 2
-        x: 2100
+        x: 7350
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -702,12 +690,12 @@ TextureImporter:
       name: Venus_22
       rect:
         serializedVersion: 2
-        x: 2200
+        x: 7700
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -723,12 +711,12 @@ TextureImporter:
       name: Venus_23
       rect:
         serializedVersion: 2
-        x: 2300
+        x: 8050
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -744,12 +732,12 @@ TextureImporter:
       name: Venus_24
       rect:
         serializedVersion: 2
-        x: 2400
+        x: 8400
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -765,12 +753,12 @@ TextureImporter:
       name: Venus_25
       rect:
         serializedVersion: 2
-        x: 2500
+        x: 8750
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -786,12 +774,12 @@ TextureImporter:
       name: Venus_26
       rect:
         serializedVersion: 2
-        x: 2600
+        x: 9100
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -807,12 +795,12 @@ TextureImporter:
       name: Venus_27
       rect:
         serializedVersion: 2
-        x: 2700
+        x: 9450
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -828,12 +816,12 @@ TextureImporter:
       name: Venus_28
       rect:
         serializedVersion: 2
-        x: 2800
+        x: 9800
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -849,12 +837,12 @@ TextureImporter:
       name: Venus_29
       rect:
         serializedVersion: 2
-        x: 2900
+        x: 10150
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -870,12 +858,12 @@ TextureImporter:
       name: Venus_30
       rect:
         serializedVersion: 2
-        x: 3000
+        x: 10500
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -891,12 +879,12 @@ TextureImporter:
       name: Venus_31
       rect:
         serializedVersion: 2
-        x: 3100
+        x: 10850
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -912,12 +900,12 @@ TextureImporter:
       name: Venus_32
       rect:
         serializedVersion: 2
-        x: 3200
+        x: 11200
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -933,12 +921,12 @@ TextureImporter:
       name: Venus_33
       rect:
         serializedVersion: 2
-        x: 3300
+        x: 11550
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -954,12 +942,12 @@ TextureImporter:
       name: Venus_34
       rect:
         serializedVersion: 2
-        x: 3400
+        x: 11900
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -975,12 +963,12 @@ TextureImporter:
       name: Venus_35
       rect:
         serializedVersion: 2
-        x: 3500
+        x: 12250
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -996,12 +984,12 @@ TextureImporter:
       name: Venus_36
       rect:
         serializedVersion: 2
-        x: 3600
+        x: 12600
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1017,12 +1005,12 @@ TextureImporter:
       name: Venus_37
       rect:
         serializedVersion: 2
-        x: 3700
+        x: 12950
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1038,12 +1026,12 @@ TextureImporter:
       name: Venus_38
       rect:
         serializedVersion: 2
-        x: 3800
+        x: 13300
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1059,12 +1047,12 @@ TextureImporter:
       name: Venus_39
       rect:
         serializedVersion: 2
-        x: 3900
+        x: 13650
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1080,12 +1068,12 @@ TextureImporter:
       name: Venus_40
       rect:
         serializedVersion: 2
-        x: 4000
+        x: 14000
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1101,12 +1089,12 @@ TextureImporter:
       name: Venus_41
       rect:
         serializedVersion: 2
-        x: 4100
+        x: 14350
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1122,12 +1110,12 @@ TextureImporter:
       name: Venus_42
       rect:
         serializedVersion: 2
-        x: 4200
+        x: 14700
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1143,12 +1131,12 @@ TextureImporter:
       name: Venus_43
       rect:
         serializedVersion: 2
-        x: 4300
+        x: 15050
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1164,12 +1152,12 @@ TextureImporter:
       name: Venus_44
       rect:
         serializedVersion: 2
-        x: 4400
+        x: 15400
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1185,12 +1173,12 @@ TextureImporter:
       name: Venus_45
       rect:
         serializedVersion: 2
-        x: 4500
+        x: 15750
         y: 0
-        width: 100
-        height: 100
+        width: 350
+        height: 350
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1198,90 +1186,6 @@ TextureImporter:
       bones: []
       spriteID: 916be0f4dfeb40670800000000000000
       internalID: 8504131991544706585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Venus_46
-      rect:
-        serializedVersion: 2
-        x: 4600
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80a43d13512cccde0800000000000000
-      internalID: -1311459995185624568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Venus_47
-      rect:
-        serializedVersion: 2
-        x: 4700
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17a97948ffdb52320800000000000000
-      internalID: 2532639270604610161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Venus_48
-      rect:
-        serializedVersion: 2
-        x: 4800
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8831a43c2154f20e0800000000000000
-      internalID: -2292537738420153464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Venus_49
-      rect:
-        serializedVersion: 2
-        x: 4900
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e147ca0e44d3c63b0800000000000000
-      internalID: -5517968077399231458
       vertices: []
       indices: 
       edges: []

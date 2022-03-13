@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/alismaze.unity
     guid: 0dcd23db9d01dd84785cd862615026de
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: 9eeed1134f9baff40a88903b47b2a040
+  - enabled: 1
+    path: Assets/Scenes/StartingScreen.unity
+    guid: 3802242a39ebb9b49b1d378c42abc405
   m_configObjects: {}
