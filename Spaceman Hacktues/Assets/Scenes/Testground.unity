@@ -4220,7 +4220,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300440, guid: 82b3b44484ece764eafd94a6ba4deb20, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7bf0a2f2a9d58e24a9f901cce176244c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -109029,7 +109029,7 @@ PrefabInstance:
     - target: {fileID: 7019023329766261197, guid: 5323ab21536ab304d982d1e8baa79773,
         type: 3}
       propertyPath: level
-      value: box 1
+      value: alismaze
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5323ab21536ab304d982d1e8baa79773, type: 3}
