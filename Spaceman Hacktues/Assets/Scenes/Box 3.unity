@@ -7805,7 +7805,7 @@ PrefabInstance:
     - target: {fileID: 7019023329766261197, guid: 5323ab21536ab304d982d1e8baa79773,
         type: 3}
       propertyPath: level
-      value: Box 4
+      value: maze
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5323ab21536ab304d982d1e8baa79773, type: 3}
