@@ -1,0 +1,44 @@
+MARS:
+-Phobos:
+Phobos is 574x smaller than Earth;
+Avarage Orbit Distance: 9.376 km
+Mean orbit velocity: 7696.7
+Orbit Eccentricity: 0.0151
+Equatorial radius: 11.1 km
+Equatorial Circumference: 69.7 km
+Volume: 5.729 km3
+Density: 1.872 g/cm3
+Mass: 10,658,529,896,187,200kg
+Surface Area: 1.548.30 km2
+Surface gravity: 0.0054 m/s2
+Escape Velocity: 41 km/h
+
+Phobos orbits closer to its Primary (Mars) than another other moon in the solar system.
+The moon travels around 6,000 km above the surface of Mars. That’s around 3,700 mi and it’s one of the reasons why it took so longer to discover it.
+
+The moon is named for the son of Greek god of war, Ares, and means Fear
+In Greek mythology, Phobos is the son of Ares, the god of war and he is the personification of fear. He was known to join his father in battle along with his twin brother Deimos – the name of Mars’ other moon.
+
+Phobos moves across the sky of Mars twice a day.
+It takes Phobos 4 hours and 15 minutes to move across the sky of Mars because of how close it is to the planet. The moon rises in the west, moves rapidly across the sky, and sets in the east twice every Martian day (every 11 h 6 min). This is because it orbits Mars below the synchronous orbit radius – this means it moves around Mars faster than Mars moves itself.
+
+Phobos is most likely an asteroid
+Phobos is made up of the same matter as asteroids and dwarf planets, composed mostly of material similar to Type I or II carbonaceous chondrites. It’s density is too light to be solid rock and it is one of the least reflective objects in the solar system.
+
+Phobos may have formed from dust and rock, or from an impact on Mars
+Scientists don’t believe Phobos came from the asteroid belt, despite it’s similarities to asteroids. This is because of it’s circular orbit path, which would be unusual for an object captured by a planet’s gravitational pull. Also, it is much less dense than other objects in the belt. Instead, it is thought that Phobos and Deimos either formed from dust and rock drawn together by gravity, or from a large impact collision which broke away pieces of Mars than then formed it’s two moons.
+
+In 50 million years Phobos will collide with Mars.
+Due to tidal deceleration caused by Phobos orbiting Mars below the synchronous orbit radius, tidal bulges are decelerating Phobos’ orbit and it will gradually spiral closer to Mars. In 30-50 million years, Phobos will be destroyed – either by colliding with Mars or torn into rubble and scattered as a ring around Mars. The moon is spiralling inward at about 1.8 centimeters per year, or 1.8 meters (6 feet) each century.
+
+Phobos has an impact crater which is 9 km (5.4 mi) wide.
+The largest crater on Phobos is 9 km wide and covered a large portion of the moon’s surface. The crater is called Stickney and named after Chloe Angeline Stickney Hall, the wife of Asaph Hall and discoverer of Phobos, in 1973. It is believed that the impact that created Stickney must have nearly shattered Phobos.
+
+The temperature on Phobos ranges from −4°C to −112°C
+Temperatures on Phobos are around −4°C (25°F) on the sunlit side of the moon, down to around −112°C (−170°F) on the shadowed side.
+
+Some prominent scientists once thought Phobos may have been created by Martians.
+In the late 1950s and early 60s, unusual orbital characteristics of Phobos led to speculations by astronomers that it might actually be hollow. Russian astrophysicist Iosif Samuilovich Shklovsky suggested a “thin sheet metal” structure for Phobos and this lead to even more speculation that the moon may be of artificial origin. Fred Singer, who at the time was science advisor to U.S. President Dwight D. Eisenhower, said of Shklovsky’s theory:
+"If the satellite is indeed spiralling inward as deduced from astronomical observation, then there is little alternative to the hypothesis that it is hollow and therefore Martian made."
+A 150-pound person would weigh about 2 ounces on Phobos
+This is because of the small size of the moon and its very weak gravity.
